@@ -4,4 +4,5 @@
 - ⚡ Ciencia de dados
 - 🌱 Python, R
 - 📫 meu email "filipesampaiocampos@gmail.com
+- 📫 meu Medium https://medium.com/@filipesampaiocampos 
 
