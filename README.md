@@ -5,7 +5,7 @@
 - ⚒️ Engenharia de dados
 - 📫 meu email "filipesampaiocampos@gmail.com
 - 📫 meu Medium https://medium.com/@filipesampaiocampos
-- 📫 meu Linkedin linkedin.com/in/filipe-sampaio-campos
+- 📫 meu Linkedin https://linkedin.com/in/filipe-sampaio-campos
 </div>
 
 
