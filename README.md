@@ -2,8 +2,10 @@
 ![Datagit](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 
 - ⚡ Ciencia de dados
+- ⚒️ Engenharia de dados
 - 📫 meu email "filipesampaiocampos@gmail.com
-- 📫 meu Medium https://medium.com/@filipesampaiocampos 
+- 📫 meu Medium https://medium.com/@filipesampaiocampos
+- 📫 meu Linkedin linkedin.com/in/filipe-sampaio-campos
 </div>
 
 
