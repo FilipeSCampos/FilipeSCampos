@@ -6,6 +6,8 @@
 - 📫 meu email filipesampaiocampos@gmail.com
 - 📫 meu Medium https://medium.com/@filipesampaiocampos
 - 📫 meu Linkedin https://linkedin.com/in/filipe-sampaio-campos
+
+- 📝 Atualmente estudando ferramentas de devops (jenkins, terraform, prometheus)
 </div>
 
 
