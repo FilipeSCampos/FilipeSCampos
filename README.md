@@ -1,5 +1,5 @@
 ## Filipe Campos
-![Datagit](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
+![Datagit]([https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif](https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif))
 
 - ⚡ Ciencia de dados
 - ⚒️ Engenharia de dados
