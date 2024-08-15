@@ -1,8 +1,12 @@
 ## Filipe Campos
 ![Datagit](https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSCampos&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FilipeSCampos&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats">
+<div>
+  
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSCampos&layout=compact&theme=midnight-purple" alt="Top Languages">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FilipeSCampos&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+
+</div>
 
 
 - ⚡ Ciencia de dados
