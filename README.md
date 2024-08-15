@@ -1,5 +1,4 @@
 ## Filipe Campos
-![Datagit](https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)
 
 <div>
   
