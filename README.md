@@ -2,13 +2,8 @@
 
 </div>
 
-
 - ⚡ Ciencia de dados
 - ⚒️ Engenharia de dados
-- 📫 meu email filipesampaiocampos@gmail.com
-- 📫 meu Medium https://medium.com/@filipesampaiocampos
-- 📫 meu Linkedin https://linkedin.com/in/filipe-sampaio-campos
-
 - 📝 Atualmente estudando ferramentas de devops (jenkins, terraform, prometheus)
 </div>
 
@@ -66,5 +61,21 @@
 ###
 
 <img src="https://raw.githubusercontent.com/FilipeSCampos/FilipeSCampos/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipe-sampaio-campos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@filipesampaiocampos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="filipesampaiocampos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
