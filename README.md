@@ -1,35 +1,5 @@
 ## Filipe Campos
 
-###
-
-<img src="https://raw.githubusercontent.com/FilipeSCampos/FilipeSCampos/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@filipesampaiocampos/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
- 
-<div>
-  
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FilipeSCampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 </div>
 
 
@@ -82,5 +52,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FilipeSCampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<img src="https://raw.githubusercontent.com/FilipeSCampos/FilipeSCampos/output/snake.svg" alt="Snake animation" />
 
 ###
